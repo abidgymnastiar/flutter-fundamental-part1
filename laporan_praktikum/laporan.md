@@ -31,8 +31,8 @@
   ![prak1](docs/prak1_2.png)
 
 - langkah 3 :
-  masukkan ke project flutter dan ketik $code .
-  ![prak1](docs/prak1_3.png)
+  masukkan ke project flutter dan ketik $code . 
+ ![prak1](docs/prak1_3.png)
 
 - langkah 4 :
   project mu sudah bisa digunakan
@@ -53,15 +53,15 @@
   <b>$get init</b>
 
 - langkah 4 :
-  Pilih menu Source Control di bagian kiri, lalu lakukan stages (+) pada file .gitignore untuk mengunggah file pertama ke repository GitHub.
+  Pilih menu Source Control di bagian kiri, lalu lakukan stages (+) pada file .gitignore untuk mengunggah file pertama ke repository GitHub <br>
   ![prak2](docs/prak2_3.png)
 
 - langkah 5 :
-  Beri pesan commit "tambah gitignore" lalu klik Commit (✔)
+  Beri pesan commit "tambah gitignore" lalu klik Commit (✔) <br>
   ![prak2](docs/prak2_4.png)
 
 - langkah 6 :
-  Lakukan push dengan klik bagian menu titik tiga > Push
+  Lakukan push dengan klik bagian menu titik tiga > Push <br>
   ![prak2](docs/prak2_5.png)
 
 - langkah 7 :
