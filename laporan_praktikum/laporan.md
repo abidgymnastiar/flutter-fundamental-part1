@@ -1,13 +1,28 @@
-# apa ajajjjjjjjjj
+# Laporan Praktikum Pemrograman Mobile - Pertemuan 5
 
-This project is a starting point for a Flutter application.
+<table>
+    <thead>
+        <th style="text-align: center;" colspan="2">Pertemuan 2</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nama</td>
+            <td>Abid Gymnastiar Alfiansyah</td>
+        </tr>
+        <tr>
+            <td>Nim</td>
+            <td>2241720043</td>
+        </tr>
+        <tr>
+            <td>Kelas</td>
+            <td>3G</td>
+        </tr>
+    </tbody>
+</table>
 
-A few resources to get you started if this is your first Flutter project:
+# Percobaan 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Praktikum 1: Membuat Project Flutter Baru
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-vggvgvgvg
+- langkah 1 : masukkan kedirectory yang digunakan
+    ![prak1](docs/prak1_1.png)

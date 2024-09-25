@@ -20,7 +20,7 @@
     </tbody>
 </table>
 
-- [Laporan Tugas](laporan.md)
+- [Laporan Tugas](laporan_praktikum/laporan.md)
 
 # hellow_world
 
