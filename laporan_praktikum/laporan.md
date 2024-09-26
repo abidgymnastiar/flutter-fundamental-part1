@@ -31,7 +31,7 @@
   ![prak1](docs/prak1_2.png)
 
 - langkah 3 :
-  masukkan ke project flutter dan ketik $code . 
+  masukkan ke project flutter dan ketik $code . <br>
  ![prak1](docs/prak1_3.png)
 
 - langkah 4 :
